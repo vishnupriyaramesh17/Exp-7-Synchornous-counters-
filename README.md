@@ -103,15 +103,18 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 ![Screenshot (229)](https://github.com/vishnupriyaramesh17/Exp-7-Synchornous-counters-/assets/119393589/fa80f6a1-1c65-4835-8c0e-3fb8ea115c4e)
 
 #### DOWNCOUNTER
+![dc](https://github.com/vishnupriyaramesh17/Exp-7-Synchornous-counters-/assets/119393589/d3555458-a95f-43f6-a369-bdd6ad284220)
 
 
 
 ### TRUTH TABLE 
 #### UPCOUNTER
 
+![upcounter](https://github.com/vishnupriyaramesh17/Exp-7-Synchornous-counters-/assets/119393589/76fd493d-ed00-400b-8ef5-63f1412f23bb)
 
 #### DOWNCOUNTER
 
+![downcounter](https://github.com/vishnupriyaramesh17/Exp-7-Synchornous-counters-/assets/119393589/2ed9e6b1-2436-4393-bd90-ffe7da8cd393)
 
 
 ### RESULTS 
